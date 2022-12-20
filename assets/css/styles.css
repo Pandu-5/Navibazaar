@@ -98,6 +98,10 @@ section {
     font-weight: bold;
 }
 
+.header .logo .small {
+    font-size: 12px;
+}
+
 .header .logo span {
     color: var(--main-color);
 }
