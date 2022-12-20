@@ -99,7 +99,9 @@ section {
 }
 
 .header .logo .small {
-    font-size: 12px;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 1;
 }
 
 .header .logo span {
@@ -616,6 +618,10 @@ textarea {
 
     .header .logo {
         font-size: 27px;
+    }
+    
+    .header .logo .small {
+        font-size: 12px;
     }
 
     .contact .row .address {
